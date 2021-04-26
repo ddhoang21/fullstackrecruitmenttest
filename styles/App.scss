@@ -1,0 +1,59 @@
+.App {
+  background-color: #EEEEEE;
+}
+
+.Header {
+  background-color: white;
+}
+
+.mainCard {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.selectButton {
+  margin-top: 160px;
+}
+
+.agentPrice {
+  line-height: 0.2em;
+}
+
+.price {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.agent {
+  font-size: 20px;
+  color: #D3D3D3;
+}
+
+.leftSection, .middleSection, .rightSection {
+  line-height: 0.8em;
+  margin-top: 10px;
+}
+
+.time {
+  font-size: 18px;
+}
+
+.airport {
+  color: #A5A5A5;
+  font-size: 18px;
+}
+
+.direct {
+  color: #00A698;
+  font-size: 15px;
+}
+
+.stop {
+  color: #CC0000;
+  font-size: 15px;
+}
+
+.length {
+  color: #A5A5A5;
+}
